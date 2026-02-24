@@ -10,6 +10,7 @@ The Rubin Calibration Reflector is an optic mounted on the top end of the TMA th
 
 ```{figure} refl_overview.png
 :figclass: technote-wide-content
+:width: 50%
 
 Calibration Reflector
 ```
@@ -23,6 +24,7 @@ The shape of the asphere is very specific, allowing a ~f/4 beam to be projected 
 
 ```{figure} refl_optical_presc.png
 :figclass: technote-wide-content
+:width: 50%
 
 Reflector Optical Prescription
 ```
@@ -102,6 +104,7 @@ Before shipping to Tucson, we measured the Reflectivity and Scattering propertie
 
 ```{figure} reflectance_plot.png
 :figclass: technote-wide-content
+:width: 50%
 
 Measurement of the refletance and scattering properties of the Reflector while in Tucson. 
 ```
@@ -115,6 +118,7 @@ Location of the measurements from the plot above
 The flatness of the optic, or rather it's consistency with the desired asphere defined above, was measured during and after manufacturing. These measurements were made using a Hexagon Laser Tracker. We carefully touched the surface of the Reflector with a 1-inch retro reflector to get these measurements. The plot below shows the results from measurements made in 2018 and then in 2023. They match quite well, although the measurement errors seem to increase in 2023. It shows that the shape of the milled aluminum piece follows that of the asphere, up to 10 microns, but possibly less than a micron based on the initial measurements.
 ```{figure} lasertracker_reflector.png
 :figclass: technote-wide-content
+:width: 50%
 
 Measurement of the Reflector relative to the definition of the asphere using the Laser Tracker
 ```
