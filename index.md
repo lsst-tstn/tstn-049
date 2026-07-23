@@ -1,11 +1,8 @@
 # Calibration Reflector
 
-```{abstract}
-The Calibration Reflector is mounted on the top end of the TMA and is used to reflect light from the Flatfield Projector onto the Calibration screen. 
-This document describes the Reflector and its operation.
-```
-
 ## Overview
+
+The Calibration Reflector is part of the Rubin Calibration System, [TSTN-066](https://tstn-066.lsst.io/).
 
 The Rubin Calibration Reflector is an optic mounted on the top end of the TMA and reflects light from the Flatfield Projector onto the calibration screen. 
 The Flatfield Projector is mounted at the center of the calibration screen on the dome. 
@@ -20,7 +17,7 @@ It has covers that can be opened and closed on command.
 Calibration Reflector
 ```
 
-The reflector was designed by Brian Johnson and was manufactured in the NOIRLab instrument shop in Tucson by Ron Harris, Anthony Tache and Anthony Borstadt. 
+The reflector was designed by Brian Johnson and was manufactured in the NOIRLab instrument shop in Tucson by Ron Harris, Anthony Tache and Anthony Borstad. 
 The cart was designed by Bill Schoening. 
 The electronics were designed and built by Antanasia Jones. 
 All testing was completed by Patrick Ingraham and Parker Fagrelius.
@@ -136,7 +133,7 @@ Proper alignment ensures that light from the Flatfield Projector is reflected on
 When the TMA is aligned to the calibration screen, the Reflector must then be aligned to the Flatfield Projector to maintain boresight consistency throughout the system.
 
 The requirements for the alignment system are the following:
-1. Projector aligned to Flatfield Projector
+1. Reflector aligned to Flatfield Projector
     * Tip/Tilt: 0.175°
     * Decenter: 2 mm
 2. Reflector aligned to TMA optical axis
