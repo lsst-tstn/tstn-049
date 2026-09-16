@@ -4,7 +4,7 @@
 
 The Calibration Reflector is part of the Rubin Calibration System, [TSTN-066](https://tstn-066.lsst.io/).
 
-The Rubin Calibration Reflector is an optic mounted on the top end of the TMA and reflects light from the Flatfield Projector onto the calibration screen. 
+The Rubin Calibration Reflector is an optic mounted on the top end of the TMA and reflects light from the Flatfield Projector ([TSTN-060](https://tstn-060.lsst.io/)) onto the calibration screen ([TSTN-057](https://tstn-057.lsst.io/)). 
 The Flatfield Projector is mounted at the center of the calibration screen on the dome. 
 The Reflector is an aspheric optic fabricated out of a block of aluminum. 
 It is mounted on hexapod legs secured to the top end of the camera and adjustable by hand.
